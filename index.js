@@ -80,7 +80,7 @@ function obtenerPares(array) {
 
 //12
 
-
+//He probado muchas maneras y no me termina de salir
 
 //13
 function arrayMapi(array, func) {
